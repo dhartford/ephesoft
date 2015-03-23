@@ -4,4 +4,4 @@ The fork was created on 3/23/2015, but the codebase last change date was r11/r12
 
 This is GPL licensed coded.
 
-This is *NOT* an ephesoft supported fork.
+This fork is *NOT* associated with Ephesoft in any way, shape, or form, and instead is an independent fork.
